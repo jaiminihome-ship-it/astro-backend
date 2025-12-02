@@ -1,4 +1,8 @@
 fastapi
 uvicorn[standard]
+gspread
+oauth2client
 requests
 python-dotenv
+swisseph
+git+https://github.com/VedAstro/vedastro.git@main
